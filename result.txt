@@ -1,0 +1,10 @@
+Taylor coefficients of cos(x): { 1, 0, -0.5, 0, 0.0416667, 0, -0.00138889, 0, 2.48016e-05, 0, -2.75573e-07, 0, 2.08768e-09, 0, -1.14706e-11, 0 }
+
+Laurent coefficients of f_sgt_zero(x): { 4, 2, 1, 5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
+
+Laurent coefficients of f_sgt_one(x): { 7, 5, 2, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }
+
+Fourier Coefficients of 1.0 + 2 * cos(2x) + 3 * sin(4x)
+an = { 1, 0, 2, 0, 0, 0, 0, 0, 0 }
+bn = { 0, 0, 0, 3, 0, 0, 0, 0 }
+
